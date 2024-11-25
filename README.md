@@ -5,7 +5,7 @@ Web Developer
 -------------
 
 * 🌍  I'm based in Casablanca, MOROCCO
-* 🖥️  See my portfolio at [fadile.com](http://fadile.vercel.app)
+* 🖥️  See my portfolio at [fadile.site](http://fadile.site)
 * ✉️  You can contact me at [anassfadile18@gmail.com](mailto:anassfadile18@gmail.com)
 * 🧠  I'm learning Vue JS
 
